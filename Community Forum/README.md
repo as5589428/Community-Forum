@@ -2,7 +2,7 @@
 
 A disscussion forum built using ReactJS, NodeJS and MongoDB.
 
-<img src="images/post1.png">
+<img src="https://github.com/as5589428/Community-Forum/blob/main/Community%20Forum/Forum.png">
 
 ## Features
 
